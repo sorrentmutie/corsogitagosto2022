@@ -1,3 +1,3 @@
 # corsogitagosto2022
 Repository Per corso GIT
-Modifica per esercizio
+Modifica per esercizio da github
