@@ -17,6 +17,7 @@ class Pigeon
 
 	public $temporary_routes = array();
 	public $namespace = '';
+	public $namespace2 = '';
 
 	/* --------------------------------------------------------------
      * GENERIC METHODS
