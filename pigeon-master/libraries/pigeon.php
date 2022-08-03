@@ -17,6 +17,7 @@ class Pigeon
 
 	public $temporary_routes = array();
 	public $namespace = '';
+	public $sandro = 'top';
 
 	/* --------------------------------------------------------------
      * GENERIC METHODS
